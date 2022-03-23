@@ -1,7 +1,6 @@
 ## Hello :)
 
 - ⚡ Practicing CTF on HackThebox and any platform that has hacking challenges...
-- 🌌 I like to learn about reversing engineering and binary exploitation...
 
 HackTheBox status
 
